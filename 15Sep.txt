@@ -1,0 +1,6 @@
+0. cpp initialization - (#include, namespace) - Thadaya Mukhosto
+1. input output.
+2. endl
+3. basic function. passing arguements
+                   - By value
+                   - By reference
